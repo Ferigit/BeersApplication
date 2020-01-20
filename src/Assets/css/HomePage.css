@@ -1,0 +1,13 @@
+.closeAddToCart {
+  width: 25%;
+  height: 11%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(187,49,27);
+  background-color: "rgb(187,49,27)";
+  border-radius: 20px;
+  margin-left: 3vh;
+  color: black;
+  font-size: 2.5vh;
+}

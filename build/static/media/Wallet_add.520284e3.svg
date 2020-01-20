@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.692" height="16.443" viewBox="0 0 16.692 16.443">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffa300"/>
+      <stop offset="1" stop-color="#ffb300"/>
+    </linearGradient>
+  </defs>
+  <g id="Wallet_add" transform="translate(56.246 -94.962)">
+    <path id="Path_631" data-name="Path 631" d="M-.02,8.543V7.961C-.048,5.1.294,2.723,1.484,1.547,2.64.343,4.992-.006,7.865.042q.462.01.923,0c2.872-.048,5.225.3,6.381,1.511,1.19,1.169,1.532,3.542,1.5,6.415V8.55c.027,2.872-.308,5.238-1.5,6.415-1.156,1.2-3.515,1.559-6.381,1.511q-.462-.01-.923,0c-2.865.048-5.225-.3-6.381-1.511C.294,13.781-.048,11.415-.02,8.543Z" transform="translate(-56.224 94.924)" fill="url(#linear-gradient)"/>
+    <g id="add-song" transform="translate(-52.026 99.196)">
+      <path id="Path_835" data-name="Path 835" d="M8.127,3.793H4.876V.543a.542.542,0,1,0-1.084,0v3.25H.542a.542.542,0,1,0,0,1.084h3.25V8.128a.542.542,0,0,0,1.084,0V4.877H8.127a.542.542,0,1,0,0-1.083Z" transform="translate(0 -0.001)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

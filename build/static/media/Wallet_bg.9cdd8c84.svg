@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360.511" height="178.514" viewBox="0 0 360.511 178.514">
+  <defs>
+    <radialGradient id="radial-gradient" cx="300.893" cy="5.845" r="832.115" gradientTransform="translate(172.9 4.211) scale(0.425 0.279)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a241e2"/>
+      <stop offset="1" stop-color="#534dfd"/>
+    </radialGradient>
+    <filter id="Mask" x="-55.119" y="-59.237" width="509.075" height="326.876" filterUnits="userSpaceOnUse">
+      <feOffset dx="20" dy="22" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="32" result="blur"/>
+      <feFlood flood-color="#0c0e1f" flood-opacity="0.353"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0858ff"/>
+      <stop offset="1" stop-color="#3273f6"/>
+    </linearGradient>
+    <filter id="Rectangle_1569" x="0" y="0" width="360.511" height="178.514" filterUnits="userSpaceOnUse">
+      <feOffset dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur-2"/>
+      <feFlood flood-color="#1460fd" flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Mask)">
+        <rect id="Mask-2" data-name="Mask" width="317.075" height="134.876" rx="14" transform="translate(3)" fill="url(#radial-gradient)"/>
+      </g>
+    </clipPath>
+  </defs>
+  <g id="Wallet_bg" transform="translate(-10.044 -113)">
+    <g transform="matrix(1, 0, 0, 1, 10.04, 113)" filter="url(#Rectangle_1569)">
+      <rect id="Rectangle_1569-2" data-name="Rectangle 1569" width="318.511" height="136.514" rx="15" transform="translate(21 14)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Base" transform="translate(27.925 127.763)" opacity="0.66">
+      <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+        <ellipse id="Oval_10" data-name="Oval 10" cx="219.768" cy="160.329" rx="219.768" ry="160.329" transform="translate(126.448 77.024)" fill="#104abf" opacity="0.2"/>
+        <ellipse id="Oval_10_Copy" data-name="Oval 10 Copy" cx="164.931" cy="165.992" rx="164.931" ry="165.992" transform="translate(-131.551 -255.122)" fill="#588fff" opacity="0.2"/>
+      </g>
+    </g>
+  </g>
+</svg>
